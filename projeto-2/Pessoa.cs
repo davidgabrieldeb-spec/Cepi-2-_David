@@ -8,5 +8,7 @@ namespace atividade_2
 {
     internal class Pessoa
     {
+        Pessoa string = nome;
+        Pessoa int = idade;
     }
 }
