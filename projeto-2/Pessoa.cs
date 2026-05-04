@@ -10,5 +10,6 @@ namespace atividade_2
     {
         Pessoa string = nome;
         Pessoa int = idade;
+        Pessoa double = Quantidade
     }
 }
